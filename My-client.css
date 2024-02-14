@@ -1,0 +1,21 @@
+html{
+    overflow-x: hidden;
+
+}
+body{
+    margin: 0px;
+    padding: 0px;
+}
+
+.client{
+    background-color: rgb(20, 20, 40);
+    display: flex;
+    justify-content: space-evenly;
+    padding: 50px 100px 50px 100px;
+}
+.clienth1{
+    background-color: rgb(20, 20, 40);
+    color: white;
+    margin: 0px;
+    padding: 30px;
+}
